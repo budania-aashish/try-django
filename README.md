@@ -1,1 +1,1 @@
-# try-django
+# polls-app
